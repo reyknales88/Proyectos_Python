@@ -2,21 +2,27 @@
 # DEFINIR LA FUNCION
 
 def mensaje():
-    print("Ingrese vapor por funcion ")
+    print("Ingrese valor por funcion ")
+    
     
     
     
 print("Ingresa un valor: ")
 a = int(input())
 
-print("Ingresa un valor: ")
-b = int(input())
-
-print("Ingresa un valor: ")
-c = int(input())
-
 d =  int(input("ingrese otro valor: "))
 
 # INVOCAR FUNCION
 
 mensaje()
+
+def message():
+    print("Ingresar valor: ")
+
+message()
+a = int(input())
+message()
+b = int(input())
+message()
+c = int(input())
+
